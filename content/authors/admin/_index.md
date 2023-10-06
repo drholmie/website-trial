@@ -14,14 +14,14 @@ organizations:
     url: https://www.cs.ucsb.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include edge computing, distributed systems, program synthesis and security.
+bio: My research interests include edge computing, distributed systems, serverless runtimes and program synthesis.
 
 # Interests to show in About widget
 interests:
   - Edge Computing
   - Distributed Systems
+  - Serverless Runtimes
   - Program Synthesis
-  - Security
 
 # Education to show in About widget
 education:
@@ -68,8 +68,8 @@ email: ''
 highlight_name: true
 ---
 
-Hi there! Welcome to my website. I'm Animesh, currently a PhD student at University of California, Santa Barbara (UCSB). I work with Prof. Chandra Krintz and Prof. Rich Wolski at RACELab. My research interests include edge computing, distributed systems, program synthesis and security. I'm current focused on implementing flexible, automated and future proof deployment/scheduling techniques at the edge for diverse workloads and hardware. The goal of my research is to allow for the edge to be deployable anywhere and accessible to anyone. 
+Hi there! Welcome to my website. I'm Animesh, currently a PhD student at University of California, Santa Barbara (UCSB). I work with Prof. Chandra Krintz and Prof. Rich Wolski at RACELab. My research interests include edge computing, distributed systems, serverless runtimes and program synthesis. My work focuses on implementing flexible, automated and future proof deployments at the edge for diverse workloads and hardware. The goal of my research is to allow for the edge to be deployable anywhere and accessible to anyone. 
 
 I love open source development and hackathons. I also run, hike, climb, write and draw in my spare time (if I ever come by such a rare resource). 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/animesh.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/animesh_cv_2.pdf" "newtab" >}}resumé{{< /staticref >}}.
