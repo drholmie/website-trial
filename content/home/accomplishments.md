@@ -24,6 +24,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url:
+    date_start: '2024-09-21'
+    description: 'Established a research collaboration between Oracle Labs and UCSB, securing funding and resources for the duration of collaboration'
+    organization: Oracle
+    organization_url: https://labs.oracle.com/pls/apex/r/labs/labs/intro
+    title: Oracle Labs Collaboration Funding
+
+  - certificate_url:
     date_start: '2022-06-22'
     description: 'Awarded to student researchers of high academic standing for summer research at UCSB'
     organization: UCSB

@@ -34,13 +34,35 @@ experience:
         * Flexible, robust schedulers for edge deployments  
         * Disaggregation of resources for FAAS programming
         * Distributed analytics for wildlife conservation
+  - title: Research Assistant
+    company: University of California, Santa Barbara
+    company_url: 'https://www.cs.ucsb.edu/'
+    company_logo: ucsb
+    location: California, Santa Barbara
+    date_start: '2024-09-21'
+    date_end: ''
+    description: |2-
+      Working with Oracle Labs and UCSB's RACELab as part of my PhD to explore building robust, and hardware aware schedulers for Serverless Computing runtimes on heterogenous cloud-edge systems
+
+  - title: Returning Research Intern
+    company: Oracle
+    company_url: 'https://labs.oracle.com/pls/apex/r/labs/labs/intro'
+    company_logo: oracle
+    location: California, Redwood City
+    date_start: '2024-06-20'
+    date_end: '2024-09-08'
+    description: |2-
+      Worked on improving FAAS cloud infrastructure utilization using multi-tenancy 
+      * Extended cloud infrastructure processes to be multi-tenant, while introducing an acceptable trade-off with security and resource utilization
+      * Reduced cost of keeping idle, provisioned serverless machines by improving utilization proportionally to the (number of CPU cores used by multi-tenant clients)/(total number of CPU cores)
+
   - title: Research Intern
     company: Oracle
     company_url: 'https://labs.oracle.com/pls/apex/r/labs/labs/intro'
     company_logo: oracle
     location: California, Redwood City
-    date_start: '2023-09-08'
-    date_end: '2023-06-20'
+    date_start: '2023-06-20'
+    date_end: '2023-09-08'
     description: |2-
       Worked on improving concurrency and cold start latency in FAAS runtime systems for multi-tenant cloud environments
       * Profiled the impact of shared memory for serverless runtimes with JVM based applications
@@ -51,8 +73,8 @@ experience:
     company_url: 'https://cds.iisc.ac.in/research/labs/'
     company_logo: dreamlab
     location: Bangalore, India
-    date_start: '2020-09-01'
-    date_end: '2021-07-31'
+    date_start: '2021-07-31'
+    date_end: '2020-09-01'
     description: |2-
       Worked on distributed edge storage and emulation of edge deployments
         * ElfStore: Developed distributed storage and consistency for edge devices such as raspberry pis, nanos, etc
