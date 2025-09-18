@@ -72,4 +72,4 @@ Hi there! Welcome to my website. I'm Animesh, currently a PhD student at Univers
 
 I love open source development and hackathons. I also run, hike, climb, write and draw in my spare time (if I ever come by such a rare resource). 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/animesh_cv_up.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/animesh_cv_2_.pdf" "newtab" >}}resumé{{< /staticref >}}.

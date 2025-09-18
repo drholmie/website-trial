@@ -44,6 +44,19 @@ experience:
     description: |2-
       Working with Oracle Labs and UCSB's RACELab as part of my PhD to explore building robust, and hardware aware schedulers for Serverless Computing runtimes on heterogenous cloud-edge systems
 
+  - title: Research Intern
+    company: Meta
+    company_url: 'https://ai.meta.com/infrastructure/'
+    company_logo: meta
+    location: Bellevue, Washington
+    date_start: '2025-06-23'
+    date_end: '2025-09-12'
+    description: |2-
+      Designed and developed constraint solver-based resource manager for Meta's AI/ML application pipelines to improve cluster utilization 
+      * Showcased efficiency of resource manager by minimizing applications moved to only 10% while successfully improving utilization across geo-distributed clusters
+      * Also designed coordination of independent schedulers to work together across different parts of the infrastructure
+
+
   - title: Returning Research Intern
     company: Oracle
     company_url: 'https://labs.oracle.com/pls/apex/r/labs/labs/intro'
